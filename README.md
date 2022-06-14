@@ -38,3 +38,6 @@ Text => CLOB
 
 ### instalação:
 pip install sqlalchemy
+
+### libs usadas:
+pip install -r requirements
